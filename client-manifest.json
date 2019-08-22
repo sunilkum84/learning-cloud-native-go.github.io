@@ -1,0 +1,176 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "common": [
+      1,
+      2,
+      3,
+      8,
+      9,
+      0
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      1
+    ],
+    "@theme/DocLegacyItem": [
+      0,
+      2
+    ],
+    "@site/docs/index.md": [
+      0,
+      3
+    ],
+    "/Users/dumindu/dev/learning-cloud-native-go/website/.docusaurus/docusaurus-plugin-content-docs/docs-b5f.json": [
+      4
+    ],
+    "main": [
+      7,
+      5
+    ],
+    "/Users/dumindu/dev/learning-cloud-native-go/website/.docusaurus/docusaurus-plugin-content-docs/docs-index-e9b.json": [
+      6
+    ],
+    "runtime~main": [
+      5,
+      7
+    ],
+    "@theme/DocLegacyPage": [
+      0,
+      8
+    ],
+    "@theme/NotFound": [
+      0,
+      9
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "common.196ce05925ea6d776920.css",
+          "hash": "44729468b8d5b2aada52",
+          "publicPath": "/common.196ce05925ea6d776920.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "common.eb5312dbbebe5db5b927.js",
+          "hash": "44729468b8d5b2aada52",
+          "publicPath": "/common.eb5312dbbebe5db5b927.js"
+        }
+      ]
+    },
+    "1": {
+      "css": [
+        {
+          "file": "component---site-src-pages-index-jsc-4-f-f99.057e3cfa462e27633c4c.css",
+          "hash": "722cc6e8ce61e20b1895",
+          "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.057e3cfa462e27633c4c.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---site-src-pages-index-jsc-4-f-f99.b265a73c028186d6cc3a.js",
+          "hash": "722cc6e8ce61e20b1895",
+          "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.b265a73c028186d6cc3a.js"
+        }
+      ]
+    },
+    "2": {
+      "css": [
+        {
+          "file": "component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
+          "hash": "41fa9986bbe44cf754a0",
+          "publicPath": "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-doc-legacy-item-031-769.9baf6b03f157f0111188.js",
+          "hash": "41fa9986bbe44cf754a0",
+          "publicPath": "/component---theme-doc-legacy-item-031-769.9baf6b03f157f0111188.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "content---docs-indexc-37-eeb.d18c2964ef40338000e2.js",
+          "hash": "fa889cfa17aeac74946b",
+          "publicPath": "/content---docs-indexc-37-eeb.d18c2964ef40338000e2.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "docsMetadata---docs-84-c-21e.18f2dbf154b28e751334.js",
+          "hash": "0f861a1988952ebd5f7d",
+          "publicPath": "/docsMetadata---docs-84-c-21e.18f2dbf154b28e751334.js"
+        }
+      ]
+    },
+    "5": {
+      "css": [
+        {
+          "file": "main.ffef3bb9b735a46363b7.css",
+          "hash": "eb4653f4245cd628f6ee",
+          "publicPath": "/main.ffef3bb9b735a46363b7.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "main.637caf3833ffd6a3d9d9.js",
+          "hash": "eb4653f4245cd628f6ee",
+          "publicPath": "/main.637caf3833ffd6a3d9d9.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "metadata---docs-index-5-b-7-7e4.444a14a096ede55d4846.js",
+          "hash": "86a0a1cd14ed571bced8",
+          "publicPath": "/metadata---docs-index-5-b-7-7e4.444a14a096ede55d4846.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "runtime~main.8ca77262dc0f2412f9b5.js",
+          "hash": "12dfcd8a6233868953d6",
+          "publicPath": "/runtime~main.8ca77262dc0f2412f9b5.js"
+        }
+      ]
+    },
+    "8": {
+      "css": [
+        {
+          "file": "8.297168503529ced8d75d.css",
+          "hash": "ed25a6ed22b40f7fc828",
+          "publicPath": "/8.297168503529ced8d75d.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "8.ca206deb9d33f723089c.js",
+          "hash": "ed25a6ed22b40f7fc828",
+          "publicPath": "/8.ca206deb9d33f723089c.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "9.1d8518ea8e6824e8d94b.js",
+          "hash": "f1922f75e5fe8b78064a",
+          "publicPath": "/9.1d8518ea8e6824e8d94b.js"
+        }
+      ]
+    }
+  }
+}

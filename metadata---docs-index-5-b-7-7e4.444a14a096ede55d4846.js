@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{39:function(e){e.exports=JSON.parse('{"id":"index","title":"Overview","description":"You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).","source":"@site/docs/index.md","permalink":"/docs/index","sidebar":"docs","category":"Documentation"}')}}]);
